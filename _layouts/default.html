@@ -27,9 +27,8 @@
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
     <script>
-        var host = "ringanta.github.io"
-        if (window.location.host == host && window.location.protocol != "https:") {
-            window.location.protocol = "https:"
+        if (window.location.host == "ringanta.github.io" && window.location.protocol != "https:") {
+            window.location.protocol = "https"
         }
       (function(document) {
         var toggle = document.querySelector('.sidebar-toggle');
