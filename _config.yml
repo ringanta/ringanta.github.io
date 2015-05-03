@@ -6,7 +6,6 @@ title:               Roy Inganta Ginting
 tagline:             'Berbagi Pengetahuan'
 description:         ''
 url:                 https://ringanta.github.io
-baseurl:             ''
 paginate:            5
 highlighter:         pygments
 
@@ -15,4 +14,3 @@ author:
   name:              Roy Inganta Ginting
   url:               https://twitter.com/ringanta
   email:             ringanta.ginting@gmail.com
-
