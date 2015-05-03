@@ -3,9 +3,11 @@ layout: page
 title: Tentang
 ---
 
-Halo folk! Selamat datang.
+Halo kawan! Selamat datang di blog seorang **System Engineer**.
 
-Blog ini berisi pengalaman belajar hal-hal teknikal yang berhubungan dengan Teknologi Informasi seperti Continuous Integration/Continuous Delivery dengan menggunakan Jenkins, Docker, dan Web Performance.
+Perkenalkan namaku Roy Inganta Ginting. Twitter: [@ringanta](https://twitter.com/ringanta), linkedin: [https://linkedin.com/in/royinganta](https://linkedin.com/in/royinganta)
+
+Blog ini berisi pengalaman belajar infrastruktur (sistem dan jaringan) Teknologi Informasi seperti _Continuous Integration and Continuous Delivery_, _Infrastructure as Code_ dan _Web Performance_.
 
 
-Blog ini digenerate menggunakan [jekyll](http://jekyllrb.com/) dan [Poole](http://getpoole.com/).
+Blog ini dibuat menggunakan [jekyll](http://jekyllrb.com/) dan [Poole](http://getpoole.com/).
