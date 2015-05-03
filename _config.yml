@@ -8,7 +8,7 @@ description:         ''
 url:                 https://ringanta.github.io
 baseurl:             ''
 paginate:            5
-pygments:            true
+highlighter:         pygments
 
 # About/contact
 author:
