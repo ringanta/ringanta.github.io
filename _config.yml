@@ -14,3 +14,6 @@ author:
   name:              Roy Inganta Ginting
   url:               https://twitter.com/ringanta
   email:             ringanta.ginting@gmail.com
+
+gems:
+  - jekyll-sitemap
